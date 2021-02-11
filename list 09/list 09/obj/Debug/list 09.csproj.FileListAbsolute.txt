@@ -1,0 +1,10 @@
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\bin\Debug\list 09.exe.config
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\bin\Debug\list 09.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\bin\Debug\list 09.pdb
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\obj\Debug\list 09.csprojAssemblyReference.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\obj\Debug\list_09.Form1.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\obj\Debug\list_09.Properties.Resources.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\obj\Debug\list 09.csproj.GenerateResource.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\obj\Debug\list 09.csproj.CoreCompileInputs.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\obj\Debug\list 09.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\list 09\list 09\obj\Debug\list 09.pdb

@@ -1,0 +1,10 @@
+C:\Users\asoya\source\repos\15 file\15 file\bin\Debug\15 file.exe.config
+C:\Users\asoya\source\repos\15 file\15 file\bin\Debug\15 file.exe
+C:\Users\asoya\source\repos\15 file\15 file\bin\Debug\15 file.pdb
+C:\Users\asoya\source\repos\15 file\15 file\obj\Debug\15 file.csprojAssemblyReference.cache
+C:\Users\asoya\source\repos\15 file\15 file\obj\Debug\_15_file.Form1.resources
+C:\Users\asoya\source\repos\15 file\15 file\obj\Debug\_15_file.Properties.Resources.resources
+C:\Users\asoya\source\repos\15 file\15 file\obj\Debug\15 file.csproj.GenerateResource.cache
+C:\Users\asoya\source\repos\15 file\15 file\obj\Debug\15 file.csproj.CoreCompileInputs.cache
+C:\Users\asoya\source\repos\15 file\15 file\obj\Debug\15 file.exe
+C:\Users\asoya\source\repos\15 file\15 file\obj\Debug\15 file.pdb

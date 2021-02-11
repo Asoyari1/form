@@ -1,0 +1,10 @@
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\bin\Debug\10 Dictionary.exe.config
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\bin\Debug\10 Dictionary.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\bin\Debug\10 Dictionary.pdb
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\obj\Debug\10 Dictionary.csprojAssemblyReference.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\obj\Debug\_10_Dictionary.Form1.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\obj\Debug\_10_Dictionary.Properties.Resources.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\obj\Debug\10 Dictionary.csproj.GenerateResource.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\obj\Debug\10 Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\obj\Debug\10 Dictionary.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\10 Dictionary\10 Dictionary\obj\Debug\10 Dictionary.pdb

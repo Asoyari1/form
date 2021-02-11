@@ -1,0 +1,10 @@
+C:\Users\asoya\source\repos\array 07\array 07\bin\Debug\array 07.exe.config
+C:\Users\asoya\source\repos\array 07\array 07\bin\Debug\array 07.exe
+C:\Users\asoya\source\repos\array 07\array 07\bin\Debug\array 07.pdb
+C:\Users\asoya\source\repos\array 07\array 07\obj\Debug\array 07.csprojAssemblyReference.cache
+C:\Users\asoya\source\repos\array 07\array 07\obj\Debug\array_07.Form1.resources
+C:\Users\asoya\source\repos\array 07\array 07\obj\Debug\array_07.Properties.Resources.resources
+C:\Users\asoya\source\repos\array 07\array 07\obj\Debug\array 07.csproj.GenerateResource.cache
+C:\Users\asoya\source\repos\array 07\array 07\obj\Debug\array 07.csproj.CoreCompileInputs.cache
+C:\Users\asoya\source\repos\array 07\array 07\obj\Debug\array 07.exe
+C:\Users\asoya\source\repos\array 07\array 07\obj\Debug\array 07.pdb

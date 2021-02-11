@@ -1,0 +1,10 @@
+C:\Users\asoya\source\repos\14 picture\14 picture\bin\Debug\14 picture.exe.config
+C:\Users\asoya\source\repos\14 picture\14 picture\bin\Debug\14 picture.exe
+C:\Users\asoya\source\repos\14 picture\14 picture\bin\Debug\14 picture.pdb
+C:\Users\asoya\source\repos\14 picture\14 picture\obj\Debug\14 picture.csprojAssemblyReference.cache
+C:\Users\asoya\source\repos\14 picture\14 picture\obj\Debug\_14_picture.Form1.resources
+C:\Users\asoya\source\repos\14 picture\14 picture\obj\Debug\_14_picture.Properties.Resources.resources
+C:\Users\asoya\source\repos\14 picture\14 picture\obj\Debug\14 picture.csproj.GenerateResource.cache
+C:\Users\asoya\source\repos\14 picture\14 picture\obj\Debug\14 picture.csproj.CoreCompileInputs.cache
+C:\Users\asoya\source\repos\14 picture\14 picture\obj\Debug\14 picture.exe
+C:\Users\asoya\source\repos\14 picture\14 picture\obj\Debug\14 picture.pdb

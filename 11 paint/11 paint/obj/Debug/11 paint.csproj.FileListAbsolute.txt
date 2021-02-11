@@ -1,0 +1,10 @@
+C:\Users\asoya\source\repos\11 paint\11 paint\bin\Debug\11 paint.exe.config
+C:\Users\asoya\source\repos\11 paint\11 paint\bin\Debug\11 paint.exe
+C:\Users\asoya\source\repos\11 paint\11 paint\bin\Debug\11 paint.pdb
+C:\Users\asoya\source\repos\11 paint\11 paint\obj\Debug\11 paint.csprojAssemblyReference.cache
+C:\Users\asoya\source\repos\11 paint\11 paint\obj\Debug\_11_paint.Form1.resources
+C:\Users\asoya\source\repos\11 paint\11 paint\obj\Debug\_11_paint.Properties.Resources.resources
+C:\Users\asoya\source\repos\11 paint\11 paint\obj\Debug\11 paint.csproj.GenerateResource.cache
+C:\Users\asoya\source\repos\11 paint\11 paint\obj\Debug\11 paint.csproj.CoreCompileInputs.cache
+C:\Users\asoya\source\repos\11 paint\11 paint\obj\Debug\11 paint.exe
+C:\Users\asoya\source\repos\11 paint\11 paint\obj\Debug\11 paint.pdb

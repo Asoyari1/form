@@ -1,0 +1,10 @@
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\bin\Debug\t4.exe.config
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\bin\Debug\t4.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\bin\Debug\t4.pdb
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\obj\Debug\t4.csprojAssemblyReference.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\obj\Debug\t4.Form1.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\obj\Debug\t4.Properties.Resources.resources
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\obj\Debug\t4.csproj.GenerateResource.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\obj\Debug\t4.csproj.CoreCompileInputs.cache
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\obj\Debug\t4.exe
+C:\Users\asoya\OneDrive\Työpöytä\form\t4\t4\obj\Debug\t4.pdb

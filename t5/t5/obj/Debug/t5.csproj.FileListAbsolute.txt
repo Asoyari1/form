@@ -1,0 +1,10 @@
+C:\Users\asoya\source\repos\t5\t5\bin\Debug\t5.exe.config
+C:\Users\asoya\source\repos\t5\t5\bin\Debug\t5.exe
+C:\Users\asoya\source\repos\t5\t5\bin\Debug\t5.pdb
+C:\Users\asoya\source\repos\t5\t5\obj\Debug\t5.csprojAssemblyReference.cache
+C:\Users\asoya\source\repos\t5\t5\obj\Debug\t5.Form1.resources
+C:\Users\asoya\source\repos\t5\t5\obj\Debug\t5.Properties.Resources.resources
+C:\Users\asoya\source\repos\t5\t5\obj\Debug\t5.csproj.GenerateResource.cache
+C:\Users\asoya\source\repos\t5\t5\obj\Debug\t5.csproj.CoreCompileInputs.cache
+C:\Users\asoya\source\repos\t5\t5\obj\Debug\t5.exe
+C:\Users\asoya\source\repos\t5\t5\obj\Debug\t5.pdb
